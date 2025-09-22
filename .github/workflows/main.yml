@@ -1,0 +1,12 @@
+name: PR Notification
+
+on:
+  pull_request:
+    types: [opened, reopened, ready_for_review]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notificar responsável
+        run: echo "🚀 Novo Pull Request aberto! Por favor, faça a revisão."
