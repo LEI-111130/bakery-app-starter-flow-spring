@@ -2,6 +2,10 @@
 
 **This starter is not recommended for new Vaadin Flow applications. Instead, visit [start.vaadin.com](https://start.vaadin.com/) to configure and download a Vaadin project that reflects the current best practices.**
 
+| Coluna 1 | Coluna 2 | Coluna 3 |
+|----------|----------|----------|
+| Valor 1  | Valor 2  | Valor 3  |
+
 
 # Running the Project in Development Mode
 
